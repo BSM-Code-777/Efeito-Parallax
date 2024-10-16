@@ -10,7 +10,7 @@
 }
 
 .primeira{
-    background-image: url(/imagem/background001.jpg);
+    background-image: url(../imagem/background001.jpg);
 
     min-height: 250px;
 
@@ -40,7 +40,7 @@
 }
 
 .terceira{
-    background-image: url(/imagem/background002.jpg);
+    background-image: url(../imagem/background002.jpg);
 
     min-height: 250px;
 
@@ -70,7 +70,7 @@
 }
 
 .quinta{
-    background-image: url(/imagem/background001.jpg);
+    background-image: url(../imagem/background001.jpg);
 
     min-height: 250px;
 
@@ -100,7 +100,7 @@
 }
 
 .setima{
-    background-image: url(/imagem/background002.jpg);
+    background-image: url(../imagem/background002.jpg);
 
     min-height: 250px;
 
